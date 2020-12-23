@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PRM391x_GoogleMap_minhpvtFX00930@funix.edu.vn</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="input_is_null">Địa chỉ không hợp lệ</string>
+    <string name="dismiss_button">Ờ, biết rồi</string>
+    <string name="locations_are_too_far_away">Khoảng cách quá xa</string>
+</resources>
