@@ -4,7 +4,7 @@
   
 ## About
 
-An Android native app find your way home
+An native Android app that find your way home
   
 ## Demo
   
