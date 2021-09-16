@@ -1,5 +1,13 @@
-# Find-path-map-lomt
-## Android native app to find your way home
+<p align="center"><img width="30%" src="images/ic_launcher-web.png" alt="Oh My Zsh"></p>
+
+<h1 align="center">Find path map LOMT<h1>
+  
+## About
+
+An Android native app find your way home
+  
+## Demo
+  
 - https://youtu.be/GClq9AVXpCI
----
-app has been uploaded to Amazon Appstore
+
+App was uploaded to Amazon Appstore
