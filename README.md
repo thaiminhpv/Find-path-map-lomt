@@ -1,4 +1,4 @@
-<p align="center"><img width="30%" src="images/map-web.png" alt="Oh My Zsh"></p>
+<p align="center"><img width="30%" src="images/icon.png" alt="Oh My Zsh"></p>
 
 <h1 align="center">Find path map LOMT</h1>
   
